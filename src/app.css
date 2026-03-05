@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-display: "Teko", ui-sans-serif, system-ui, sans-serif;
+}
+
+html,
+body {
+  @apply bg-white;
+}
+
+html {
+  font-family: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Teko", ui-sans-serif, system-ui, sans-serif;
+}
