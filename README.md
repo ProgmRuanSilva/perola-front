@@ -127,7 +127,7 @@ npm run typecheck
 
 ## Entrega - Sprints 3 e 4
 
-- **Deploy Vercel:** [https://perola-front.vercel.app/](https://perola-front.vercel.app/)
+- **Deploy Vercel:** [https://perola-front-oszdq7q30-ruan-silvas-projects.vercel.app/](https://perola-front-oszdq7q30-ruan-silvas-projects.vercel.app/)
 - **Vídeo Pitch (YouTube):** [https://youtu.be/V0IOCo6VWnA](https://youtu.be/V0IOCo6VWnA)
 - **Repositório GitHub:** [https://github.com/ProgmRuanSilva/perola-front](https://github.com/ProgmRuanSilva/perola-front)
 
