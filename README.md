@@ -78,7 +78,7 @@ perola-front/
 <br><br>
 
 <!-- Integrante 3: Ruan -->
-<img src="https://perola-front.vercel.app/img/ruan.png" width="130px" style="border-radius:50%" alt="Ruan Silva">
+<img src="https://avatars.githubusercontent.com/u/108758883?v=4" width="130px" style="border-radius:50%" alt="Ruan Silva">
 <h3>Ruan Silva</h3>
 <sub>RM 566719 - 1TDSPB</sub>
 <p>Startupeiro movido a café ☕ e muita melodia 🎵</p>
