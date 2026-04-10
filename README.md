@@ -50,7 +50,7 @@ perola-front/
 <div align="center">
 
 <!-- Integrante 1: Cassio -->
-<img src="public/img/cassio.jpg" width="130px" style="border-radius:50%" alt="Cassio Ribeiro">
+<img src="https://perola-front.vercel.app/img/cassio.jpg" width="130px" style="border-radius:50%" alt="Cassio Ribeiro">
 <h3>Cassio Ribeiro</h3>
 <sub>RM 567295 - 1TDSPR</sub>
 <p>20 anos de experiência na área tributária, descobriu na tecnologia uma paixão por resolução de problemas.</p>
@@ -64,21 +64,21 @@ perola-front/
 <br><br>
 
 <!-- Integrante 2: Paulo -->
-<img src="public/img/paulo.jpg" width="130px" style="border-radius:50%" alt="Paulo Sousa">
+<img src="https://perola-front.vercel.app/img/paulo.jpg" width="130px" style="border-radius:50%" alt="Paulo Sousa">
 <h3>Paulo Sousa</h3>
 <sub>RM 568580 - 1TDSPR</sub>
 <p>O representante do grupo, Paulo é conhecido por sua habilidade em comunicação, liderança e trabalho em equipe.</p>
 <a href="https://www.linkedin.com/in/paulo-sousa-b97235246/" target="_blank">
   <img src="public/img/linkedin.svg" width="35px" alt="LinkedIn">
 </a>
-<a href="https://github.com/PauloSousaJDEV" target="_blank">
+<a href="https://perola-front.vercel.app/img/paulo.jpg" target="_blank">
   <img src="public/img/github.svg" width="35px" alt="GitHub">
 </a>
 
 <br><br>
 
 <!-- Integrante 3: Ruan -->
-<img src="public/img/ruan.png" width="130px" style="border-radius:50%" alt="Ruan Silva">
+<img src="https://perola-front.vercel.app/img/ruan.png" width="130px" style="border-radius:50%" alt="Ruan Silva">
 <h3>Ruan Silva</h3>
 <sub>RM 566719 - 1TDSPB</sub>
 <p>Startupeiro movido a café ☕ e muita melodia 🎵</p>
@@ -130,6 +130,13 @@ npm run typecheck
 - **Deploy Vercel:** [https://perola-front-oszdq7q30-ruan-silvas-projects.vercel.app/](https://perola-front-oszdq7q30-ruan-silvas-projects.vercel.app/)
 - **Vídeo Pitch (YouTube):** [https://youtu.be/V0IOCo6VWnA](https://youtu.be/V0IOCo6VWnA)
 - **Repositório GitHub:** [https://github.com/ProgmRuanSilva/perola-front](https://github.com/ProgmRuanSilva/perola-front)
+
+## Contatos
+
+Para dúvidas, sugestões ou para saber mais sobre o projeto, entre em contato com a equipe:
+
+- **E-mail:** [contato@FASTFORWARD.com.br](mailto:contato@FASTFORWARD.com.br)
+- **LinkedIn / GitHub:** Disponíveis na seção [Autores](#autores)
 
 ---
 
