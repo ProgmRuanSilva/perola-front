@@ -6,6 +6,5 @@
 /.react-router/
 /build/
 
-package-lock.json
 .playwright-cli/
 .agent/

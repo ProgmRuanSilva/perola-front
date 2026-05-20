@@ -11,6 +11,7 @@ import Projetos from "./pages/projetos";
 // CRUD de Pessoas
 import PessoaListagem from "./pages/admin/Listagem";
 import PessoaCriar from "./pages/admin/Criar";
+import PessoaEditar from "./pages/admin/Editar";
 import PessoaDetalhes from "./pages/admin/Detalhes";
 
 export const router = createBrowserRouter([
@@ -28,6 +29,7 @@ export const router = createBrowserRouter([
 
       { path: "admin", element: <PessoaListagem /> },
       { path: "admin/novo", element: <PessoaCriar /> },
+      { path: "admin/:id/editar", element: <PessoaEditar /> },
       { path: "admin/:id", element: <PessoaDetalhes /> },
     ],
   },

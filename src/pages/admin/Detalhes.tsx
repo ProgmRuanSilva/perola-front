@@ -83,6 +83,21 @@ export default function PessoaDetalhes() {
               </div>
 
             </div>
+
+            <div className="mt-8 flex space-x-4">
+              <Link
+                to={`/admin/${id}/editar`}
+                className="inline-block bg-yellow-500 text-white px-6 py-2 rounded shadow hover:bg-yellow-600"
+              >
+                Editar Usuário
+              </Link>
+              <Link
+                to="/admin"
+                className="inline-block bg-gray-500 text-white px-6 py-2 rounded shadow hover:bg-gray-600"
+              >
+                Voltar para Lista
+              </Link>
+            </div>
           </div>
         ) : (
           <p className="text-gray-600">Usuário não encontrado.</p>

@@ -69,6 +69,12 @@ export default function PessoaListagem() {
                   >
                     Detalhes
                   </Link>
+                  <Link
+                    to={`/admin/${p.id}/editar`}
+                    className="text-yellow-600 hover:text-yellow-800 hover:underline"
+                  >
+                    Editar
+                  </Link>
                   <button
                     onClick={() => p.id && handleDelete(p.id)}
                     className="text-red-600 hover:text-red-800"

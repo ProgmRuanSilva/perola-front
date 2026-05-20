@@ -26,7 +26,7 @@ perola-front/
 │   ├── utils/         # Arquivos utilitários (ex: api.ts fetch)
 │   ├── routes.tsx     # Roteamento central das páginas
 │   ├── root.tsx       # Layout principal
-│   └── index.css      # Estilos globais Tailwind
+│       └── app.css        # Estilos globais Tailwind
 ├── public/            # Imagens e assets estáticos
 └── vercel.json        # Configuração p/ deploy (rewrites)
 ```
@@ -71,7 +71,7 @@ perola-front/
 <a href="https://www.linkedin.com/in/paulo-sousa-b97235246/" target="_blank">
   <img src="public/img/linkedin.svg" width="35px" alt="LinkedIn">
 </a>
-<a href="https://perola-front.vercel.app/img/paulo.jpg" target="_blank">
+<a href="https://github.com/PauloSousa0" target="_blank">
   <img src="public/img/github.svg" width="35px" alt="GitHub">
 </a>
 
