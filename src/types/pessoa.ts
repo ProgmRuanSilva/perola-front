@@ -1,10 +1,12 @@
+export type TipoPessoa = 'beneficiario' | 'voluntario' | 'funcionario';
+
 export interface Pessoa {
   id?: number | string;
   nomePessoa: string;
   cpfPessoa: string;
   contatoPessoa?: string;
   enderecoPessoa?: string;
-  tipoPessoa?: string;
+  tipoPessoa?: TipoPessoa;
   createdAt?: string;
   updatedAt?: string;
 }
